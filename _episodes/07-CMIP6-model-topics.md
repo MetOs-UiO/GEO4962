@@ -1,4 +1,3 @@
-<!--
 ---
 title: "CMIP6 model topics"
 teaching: 0
@@ -332,5 +331,3 @@ fig.colorbar(cs, cax=cbar_ax, label=TSco2.units,
 <img src="../fig/several.png">
 
 {% include links.md %}
-
--->
